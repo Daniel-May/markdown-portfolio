@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am learning new skills all the time, some of my existing tech skills  are **HTML5**, **CSS3** and **Javascript**!
